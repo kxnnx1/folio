@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://canclank.github.io/nyangchive/"><b>🌐 웹에서 바로 쓰기</b></a>
+  <a href="https://kxnnx1.github.io/folio/"><b>🌐 웹에서 바로 쓰기</b></a>
 </p>
 
 ---
