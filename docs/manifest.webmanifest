@@ -1,0 +1,38 @@
+{
+  "id": "./",
+  "name": "Folio · Character Reading Room",
+  "short_name": "Folio",
+  "description": "실리태번 캐릭터 카드 · 페르소나 · 로어북 · 프롬프트를 한곳에 모아 읽고 고치는 서재",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F0EB",
+  "theme_color": "#F5F0EB",
+  "icons": [
+    {
+      "src": "img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "img/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
